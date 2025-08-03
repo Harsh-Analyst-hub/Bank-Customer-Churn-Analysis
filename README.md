@@ -2,7 +2,6 @@
 
 ## 🔍 Project Overview
 This project is a **Python-based churn prediction model** aimed at identifying customers who are likely to leave the bank. Using a dataset of 10,000 customers, it combines **exploratory data analysis (EDA)** with a **logistic regression model** to uncover key drivers of churn and generate actionable insights. The primary goal is to support customer retention by identifying high-risk segments based on behavior and demographics.
-
 ---
 
 ## 📌 Key Insights
