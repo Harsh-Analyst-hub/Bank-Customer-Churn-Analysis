@@ -1,6 +1,4 @@
 # Bank-Customer-Churn-Analysis
-Analyzed bank customer data to identify churn patterns using logistic regression. Key churn drivers include age, gender, geography, and account activity. The model achieved 81% accuracy, helping target high-risk segments like women aged 50+ in Germany for retention.
-# 🏦 Bank – Customer Churn Prediction with Logistic Regression
 
 ## 🔍 Project Overview
 This project is a **Python-based churn prediction model** aimed at identifying customers who are likely to leave the bank. Using a dataset of 10,000 customers, it combines **exploratory data analysis (EDA)** with a **logistic regression model** to uncover key drivers of churn and generate actionable insights. The primary goal is to support customer retention by identifying high-risk segments based on behavior and demographics.
